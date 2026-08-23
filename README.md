@@ -1,2 +1,1 @@
-LemmaDigitalcom.github.io
-Who am i?
+Lemma_Asefa.github.io
